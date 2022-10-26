@@ -1,8 +1,7 @@
 {
- "theme_color": "#57595A",
- "name": "Docg tour Virtual",
+ "name": "Docg Tour Virtual",
+ "background_color": "#57595A",
  "display": "fullscreen",
- "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#57595A"
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#57595A"
 }
