@@ -38,7 +38,7 @@
  ],
  "name": "Docg Tour Virtual",
  "display": "fullscreen",
- "start_url": "index.htm?installed=true",
  "background_color": "#57595A",
- "theme_color": "#57595A"
+ "theme_color": "#57595A",
+ "start_url": "index.htm?installed=true"
 }
